@@ -1,7 +1,14 @@
 @import url(https://fonts.googleapis.com/css?family=Asset);
-* {
+body {
     background-image: url(images/PurpleEvening.jpg);
     font-family: font-family: 'Asset', cursive;
+    background-repeat: no-repeat;
+}
+h1 {
     color: #6F7342;
-    text-shadow: 2px 2px #5f4274;
+    text-shadow: 2px 2px #000;
+    margin-top: 20%;
+}
+0%;
+
 }
